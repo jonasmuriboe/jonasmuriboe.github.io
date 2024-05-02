@@ -1,2 +1,16 @@
 site_name: OmegaPrint
-theme: readthedocs
+theme:
+  name: readthedocs
+  plugins:
+    - search
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+nav:
+  - 'index.md'
+  - 'quickstart.md'
+  - 'faq.md'
+markdown_extensions:
+  - attr_list
+  - md_in_html
