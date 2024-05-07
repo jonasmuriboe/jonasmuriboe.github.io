@@ -29,13 +29,7 @@ Med mindre man har mye erfaring med 3D-printere er det ønskelig at man kun bruk
 
 ### Support
 
-Support, eller støttemateriale, er strukturer som printes med hensikt om å støtte opp modellen der man ellers ville ha risikert å printe i "løse luften". De fleste 3D-printere har en praktisk grense ved 45 grader overheng.
-
-Hvis det skal printes med support så anbefaler jeg å bruke innstillingene vist i dette bildet:
-
-![Image](img/Default_Support.png)
-
-Det er ikke så farlig med hvilken kvalitetsinnstilling man velger (i dette tilfellet 0.16mm High Quality), men innstillingene under **Support**-fanen vil trolig dekke de fleste tilfeller.
+Se [Support](support.md)
 
 ## Printing
 
