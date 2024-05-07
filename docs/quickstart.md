@@ -30,11 +30,11 @@ Med mindre man har mye erfaring med 3D-printere er det ønskelig at man kun bruk
 Support, eller støttemateriale, er strukturer som printes med hensikt om å støtte opp modellen der man ellers ville ha risikert å printe i "løse luften". De fleste 3D-printere har en praktisk grense ved 45 grader overheng.
 
 
-## Før man printer
+## Printing
 
 1. Bruk Bambu Studio til å slice modellen og noter hvor lang tid det vil ta å skrive ut modellen
 2. Book plass på møterommet 3D-Printer i Outlook for tiden man planlegger å printe
-3. Sørg for at det ikke finnes noe plast på byggeplaten. Av og til kan det være nødvendig å vaske byggeplaten, for eksempel hvis man har endt opp med å berøre midten av plata slik at det har blitt etterlat fingeravtrykk og fett fra fingre. Løft av den magnetiske plata og vask forsiktig med såpe og fingre, og tørk av i en retning med papir. Unngå å berøre midten av plata.
+3. Sørg for at det ikke finnes noe plast på byggeplaten. Av og til kan det være nødvendig å vaske byggeplaten, se [Vaske byggeplata](maintenance.md#vaske-byggeplata)
 4. Verifiser at det er nok plast i fargen du ønsker å bruke
 5. Start printen
 6. Observer enten ved kamera eller fysisk at de første lagene av printen printes uten problemer, hovedårsaken til at en print feiler er typisk at de første lagene ikke blir bra.

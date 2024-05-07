@@ -11,6 +11,7 @@ nav:
   - 'index.md'
   - 'quickstart.md'
   - 'faq.md'
+  - 'maintenance.md'
 markdown_extensions:
   - attr_list
   - md_in_html

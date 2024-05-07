@@ -9,3 +9,5 @@
     * [Printables](https://www.printables.com)
 * Hva slags filformatter støtter Bambu Studio?
     * STL, OBJ, STEP og 3MF (ytterligere filformater er støttet, men de nevnte er vanligst)
+* Kan jeg bruke en annen slicer?
+    * Nei, vi ønsker at alle skal bruke Bambu Studio 
