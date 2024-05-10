@@ -15,6 +15,8 @@
    ![Image](img/Install_Step_4.png)
 
 3. Logg inn med et delt brukernavn og passord
+    - Brukernavn: 3dprinter@omegapoint.no
+    - Passord: Se slack kanalen 3d-printing
     - Bambu Studio støtter dessverre ikke deling av printere på noen annen måte enn ved å benytte samme innloggingsdetaljer.
 4. Gå til fanen **Prepare** og sørg for at de grunnleggende innstillingene er satt:
     - Printer er satt til **Bambu Lab P1S 0.4 nozzle**

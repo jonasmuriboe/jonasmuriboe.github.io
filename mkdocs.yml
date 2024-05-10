@@ -10,11 +10,11 @@ theme:
 nav:
   - 'index.md'
   - 'quickstart.md'
-  - 'faq.md'
   - 'maintenance.md'
   - 'slicer.md'
   - 'support.md'
   - 'quality.md'
+  - 'faq.md'
 markdown_extensions:
   - attr_list
   - md_in_html
