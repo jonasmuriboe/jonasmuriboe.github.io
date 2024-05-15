@@ -14,6 +14,7 @@ nav:
   - 'slicer.md'
   - 'support.md'
   - 'quality.md'
+  - 'mistakes.md'
   - 'faq.md'
 markdown_extensions:
   - attr_list
